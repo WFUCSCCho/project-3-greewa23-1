@@ -99,6 +99,7 @@ Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted)
 ![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
+![image](https://github.com/user-attachments/assets/e7359b7e-1bf1-4ca6-ba81-f8342095c43d)
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
 
