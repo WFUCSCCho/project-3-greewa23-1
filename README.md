@@ -97,9 +97,11 @@ it to this repository.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
 ![image](https://github.com/user-attachments/assets/c57bf727-5a6d-42cd-852f-e121ca1e129f)
+Merge Sort appears to be O(logN) but there is a lot of fluctuation with these data points. Sorted heap sort appears to be O(logN) but has some fluctuation. Sorted Bubble Sort has O(n) running time. Sorted Quick Sort has a runtime of O(logN). BubbleSort has the smallest time, Heap Sort has the second smallest, Quick Sort has the third, and Merge Sort has the largest time. If I had more data points my conclusions could be more accurate.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
 ![image](https://github.com/user-attachments/assets/36f4e087-9550-4cb6-99f3-d7f79da309cf)
+Merge Sort, Quick Sort, and Heap Sort have runtimes of O(logN). Bubble Sort has a runtime of O(n^2). There are a lot of fluctuations with the data so my conclusions may not all be accurate.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
 ![image](https://github.com/user-attachments/assets/60f1eeab-07b9-4ff0-8570-4a187f392c54)
@@ -112,6 +114,8 @@ Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
 
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
 ![image](https://github.com/user-attachments/assets/a016fb5e-5562-407b-b7db-1c95463f6052)
+
+My graph may not illustrate this perfectly and with more data, it would be more accurate.
 
 ## Submission:
 
