@@ -108,8 +108,8 @@ Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
 BubbleSort has an O(n) runtime. Merge Sort, Quick Sort, and Heap Sort have a O(logn) runtime. Bubble Sort has the largest runtime while Heap Sort has the smallest. There are some fluctuations with the data.
 
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
-![image](https://github.com/user-attachments/assets/00e57642-6620-4f3d-8534-ac321cfec973)
-Bubble Sort and Odd-Even Transposition Sort have the same runtime of O(n). They are exactly the same line.
+![image](https://github.com/user-attachments/assets/3da643da-6613-4adc-8eb5-f83780e5705b)
+Bubble Sort has a runtime of O(n). Odd-Even Transposition Sort has a constant runtime. So, Bubble Sort has a larger runtime.
 
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
 ![image](https://github.com/user-attachments/assets/c7c19bc7-03a5-46cb-9a07-07d58f4958cf)
