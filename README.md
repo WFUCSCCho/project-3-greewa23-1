@@ -101,19 +101,23 @@ Merge Sort appears to be O(logN) but there is a lot of fluctuation with these da
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
 ![image](https://github.com/user-attachments/assets/36f4e087-9550-4cb6-99f3-d7f79da309cf)
-Merge Sort, Quick Sort, and Heap Sort have runtimes of O(logN). Bubble Sort has a runtime of O(n^2). There are a lot of fluctuations with the data so my conclusions may not all be accurate.
+Merge Sort, Quick Sort, and Heap Sort have runtimes of O(logN). Bubble Sort has a runtime of O(n^2). Bubble Sort has the largest runtime while Heap Sort has the smallest. There are a lot of fluctuations with the data so my conclusions may not all be accurate.
 
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
 ![image](https://github.com/user-attachments/assets/60f1eeab-07b9-4ff0-8570-4a187f392c54)
+BubbleSort has an O(n) runtime. Merge Sort, Quick Sort, and Heap Sort have a O(logn) runtime. Bubble Sort has the largest runtime while Heap Sort has the smallest. There are some fluctuations with the data.
 
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
 ![image](https://github.com/user-attachments/assets/00e57642-6620-4f3d-8534-ac321cfec973)
+Bubble Sort and Odd-Even Transposition Sort have the same runtime of O(n). They are exactly the same line.
 
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
 ![image](https://github.com/user-attachments/assets/c7c19bc7-03a5-46cb-9a07-07d58f4958cf)
+Bubble Sort has a runtime of O(n^2) and Odd-Even Transposition Sort has a runtime of O(n^2) as well. Bubble Sort has a larger runtime though.
 
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
 ![image](https://github.com/user-attachments/assets/a016fb5e-5562-407b-b7db-1c95463f6052)
+Bubble Sort has a runtime of O(n^2) and Odd-Even Transposition Sort has a runtime of O(n^2) as well. Bubble Sort has a larger runtime.
 
 My graph may not illustrate this perfectly and with more data, it would be more accurate.
 
